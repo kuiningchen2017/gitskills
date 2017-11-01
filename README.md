@@ -4,3 +4,4 @@
 又切换到feature1分支 写代码
 4,禁止Fast forward --no--ff方式的git merge
 5,我在dev分支上代码写一半····没写完 这时候要来修改bug了,修完bug 我回来了！
+6,假装另一个小伙伴在dev分支上写代码
